@@ -1,0 +1,60 @@
+body {
+    width: 1000px; 
+    height: 600px;
+    margin: 0 auto; 
+    background-color: black;
+    overflow-x: hidden;
+    overflow: hidden;
+}
+.imag {
+    position: relative;
+    left: 500px;
+    bottom: 0px;
+    width: 500px;
+    height: 450px;
+}
+h3{
+    position: relative;
+    font-size: 28px;
+    color: yellow;
+    bottom: 400px;
+}
+span{   
+    display: block;
+    margin-left: 60px;
+}
+h4{
+    position: relative;
+    font-size: 20px;
+    color: yellow;
+    bottom: 390px;
+    left: 55px;
+}
+h5{
+    position: relative;
+    bottom: 370px;
+    color: yellow;
+    font-size: 18px;
+}
+h6{
+    position: relative;
+    color: yellow;
+    margin-bottom: 5px;
+    bottom: 330px;
+    font-size: 16px;
+}
+.link h1 {
+    color: white;
+    position: relative;
+    font-size: 18px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: gray;
+    text-align: center;
+    line-height: 30px; 
+    left: 400px;
+    top: -260px;
+    margin-right: 6px;
+}

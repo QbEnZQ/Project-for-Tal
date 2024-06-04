@@ -1,0 +1,150 @@
+body{
+    height: 2000px;
+    width: 1000px;
+    background-color:   black;
+}
+img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+    left: 150px;
+    margin-right: 50px;
+    margin-bottom: 150px;
+}
+.cube1 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 3620px;
+    display: inline-block;
+    margin-right: 230px;
+}
+.cube2 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 3240px;
+    display: inline-block;
+    margin-right: 230px;
+}
+.cube3 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 2860px;
+    display: inline-block;
+    margin-right: 230px;
+}
+.cube4 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 2480px;
+    display: inline-block;
+    margin-right: 230px;
+}
+.cube5 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 2100px;
+    display: inline-block;
+    margin-right: 230px;
+}
+.cube6 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 1720px;
+    display: inline-block;
+    margin-right: 230px;
+}
+.cube7 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 1340px;
+    display: inline-block;
+    margin-right: 230px;
+}
+.cube8 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 960px;
+    display: inline-block;
+    margin-right: 230px;
+}
+.cube9 h1{
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left: 232px;
+    bottom: 580px;
+    display: inline-block;
+    margin-right: 230px;
+}
+
+

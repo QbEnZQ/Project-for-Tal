@@ -1,0 +1,45 @@
+body{
+    width: 1000px; 
+    height: 600px;
+    margin: 0 auto; 
+    background-color: black;
+    overflow-x: hidden;
+    overflow: hidden;
+}
+h1{
+    font-size: 45px;
+    color: white;
+    position: relative;
+    bottom: -60px;
+    left: 20px;
+}
+h2{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 500px;
+    bottom: -100px;
+    width: 200px;
+}
+h3{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 700px;
+    bottom: 52px;
+    width: 200px;
+}
+.link h1 {
+    color: white;
+    position: relative;
+    font-size: 18px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: gray;
+    text-align: center;
+    line-height: 30px; 
+    left: 400px;
+    top: 100px;
+}

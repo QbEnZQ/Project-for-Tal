@@ -1,0 +1,76 @@
+body{
+    width: 1000px; 
+    height: 600px;
+    margin: 0 auto; 
+    background-color: black;
+    overflow-x: hidden;
+    overflow: hidden;
+}
+img{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 0px 50px 0px 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+    left: 85px;
+    bottom: 388px;
+    margin-right: 110px;
+}
+h2{
+    border-radius: 0px 50px 0px 50px;
+    background: gray;
+    padding: 30px;
+    padding-bottom: 70px;
+    padding-top: 210px;
+    display: inline-block;
+    width: 150px;
+    margin-right: 100px; 
+    position: relative;
+    left: 80px;
+    top: -10px;
+    text-align: center;
+}
+h1{
+    color: white;
+    position: relative;
+    left: 370px;
+}
+h3{
+    display: inline-block;
+    font-size: small;
+    color: white;
+    position: relative;
+    margin-right: 180px;
+    left: 110px;
+    bottom: 100px;
+}
+.second-cube2 a{
+    font-size: 20px;
+    width: 150px; 
+    height: 50px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: gray;
+    color: white; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    position: relative;
+    bottom: 250px;
+    left: 430px;
+}
+.link h1 {
+    color: white;
+    position: relative;
+    font-size: 18px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: gray;
+    text-align: center;
+    line-height: 30px; 
+    left: 430px;
+    top: -210px;
+    margin-right: 6px;
+}
